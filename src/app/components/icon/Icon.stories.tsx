@@ -1,5 +1,4 @@
 import type {Meta, StoryObj} from "@storybook/react";
-import '!style-loader!css-loader!postcss-loader!tailwindcss/tailwind.css';
 
 import Icon from "@/app/components/icon/Icon";
 import {IconsMap} from "@/app/components/icon/icon.types";
